@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://gaojj.cn' },
-    { title: '点击访问纯净版博客', url: 'https://blog.gaojj.cn' }
+    { title: '欢迎来到我的博客🎉', url: 'https://gaojj.cn' },
+    { title: '点击访问纯净版博客👏', url: 'https://blog.gaojj.cn' }
   ],
 
   // 英雄区(首页顶部大卡)

@@ -67,7 +67,7 @@ const CONFIG = {
       color_1: '#57b6e6',
       title_2: 'c++',
       img_2: '/images/heo/cpp.png',
-      color_2: '#4082c3'
+      color_2: '#ffffff'
     },
     {
       title_1: 'pytorch',

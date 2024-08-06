@@ -80,7 +80,7 @@ const CONFIG = {
     {
       title_1: 'k8s',
       img_1: '/images/heo/k8s.png',
-      color_1: '#eb6840',
+      color_1: '#ffffff',
       title_2: 'Principle',
       img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
       color_2: '#8f55ba'

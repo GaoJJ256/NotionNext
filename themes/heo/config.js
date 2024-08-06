@@ -78,7 +78,7 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'k8s'
+      title_1: 'k8s',
       img_1: '/images/heo/k8s.png',
       color_1: '#eb6840',
       title_2: 'Principle',

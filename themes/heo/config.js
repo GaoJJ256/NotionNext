@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与生活',
   HEO_HERO_TITLE_3: 'blog.gaojj.cn',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '',
+  HEO_HERO_TITLE_4: '你好👋',
+  HEO_HERO_TITLE_5: '我是GJJ',
   HEO_HERO_TITLE_LINK: 'blog.gaojj.cn',
 
   // // 英雄区显示三个置顶分类

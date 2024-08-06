@@ -80,7 +80,7 @@ const CONFIG = {
     {
       title_1: 'go',
       img_1: '/images/heo/gogogo.png',
-      color_1: '#57b6e6',
+      color_1: '#ffffff',
       title_2: 'Git',
       img_2: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
       color_2: '#df5b40'

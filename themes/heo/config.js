@@ -71,7 +71,7 @@ const CONFIG = {
     },
     {
       title_1: 'FinalCutPro',
-      img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
+      img_1: '/images/heo/pytorch.png',
       color_1: '#ffffff',
       title_2: 'Python',
       img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',

@@ -81,9 +81,9 @@ const CONFIG = {
       title_1: 'k8s',
       img_1: '/images/heo/k8s.png',
       color_1: '#ffffff',
-      title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
-      color_2: '#8f55ba'
+      title_2: 'Git',
+      img_2: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
+      color_2: '#df5b40'
     },
     // {
     //   title_1: 'illustrator',
@@ -101,14 +101,14 @@ const CONFIG = {
     //   img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
     //   color_2: '#e9572b'
     // },
-    {
-      title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
-      color_1: '#df5b40',
-      title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
-      color_2: '#1f1f1f'
-    }
+    // {
+    //   title_1: 'Git',
+    //   img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
+    //   color_1: '#df5b40',
+    //   title_2: 'Rhino',
+    //   img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
+    //   color_2: '#1f1f1f'
+    // }
   ],
 
   HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮

@@ -55,7 +55,7 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'go',
-      img_1: '/images/heo/go.png',
+      img_1: '/images/heo/gogo.png',
       color_1: '#989bf8',
       title_2: 'Sketch',
       img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',

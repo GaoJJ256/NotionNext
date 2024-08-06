@@ -78,8 +78,8 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
+      title_1: 'k8s'
+      img_1: '/images/heo/k8s.png',
       color_1: '#eb6840',
       title_2: 'Principle',
       img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',

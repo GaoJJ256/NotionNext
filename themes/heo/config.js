@@ -57,8 +57,8 @@ const CONFIG = {
       title_1: 'k8s',
       img_1: '/images/heo/k8s.png',
       color_1: '#ffffff',
-      title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      title_2: 'verilog',
+      img_2: '/images/heo/verilog.png',
       color_2: '#ffffff'
     },
     {

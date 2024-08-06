@@ -70,7 +70,7 @@ const CONFIG = {
       color_2: '#4082c3'
     },
     {
-      title_1: 'FinalCutPro',
+      title_1: 'pytorch',
       img_1: '/images/heo/pytorch.png',
       color_1: '#ffffff',
       title_2: 'Python',

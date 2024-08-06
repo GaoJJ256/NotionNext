@@ -66,7 +66,7 @@ const CONFIG = {
       img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
       color_1: '#57b6e6',
       title_2: 'c++',
-      img_2: '/images/heo/c++.png',
+      img_2: '/images/heo/cpp.png',
       color_2: '#4082c3'
     },
     {

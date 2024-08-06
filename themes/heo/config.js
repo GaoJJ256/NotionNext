@@ -79,7 +79,7 @@ const CONFIG = {
     },
     {
       title_1: 'go',
-      img_1: '/images/heo/gogo.png',
+      img_1: '/images/heo/gogogo.png',
       color_1: '#57b6e6',
       title_2: 'Git',
       img_2: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',

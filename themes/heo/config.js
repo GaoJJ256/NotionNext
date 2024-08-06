@@ -54,17 +54,17 @@ const CONFIG = {
   // 用户技能图标
   HEO_GROUP_ICONS: [
     {
-      title_1: 'k8s',
-      img_1: '/images/heo/k8s.png',
-      color_1: '#ffffff',
+      title_1: 'Docker',
+      img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
+      color_1: '#57b6e6',
       title_2: 'verilog',
       img_2: '/images/heo/verilog.png',
       color_2: '#ffffff'
     },
     {
-      title_1: 'Docker',
-      img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
-      color_1: '#57b6e6',
+      title_1: 'k8s',
+      img_1: '/images/heo/k8s.png',
+      color_1: '#ffffff',
       title_2: 'c++',
       img_2: '/images/heo/cpp.png',
       color_2: '#ffffff'

@@ -54,9 +54,9 @@ const CONFIG = {
   // 用户技能图标
   HEO_GROUP_ICONS: [
     {
-      title_1: 'go',
-      img_1: '/images/heo/gogo.png',
-      color_1: '#989bf8',
+      title_1: 'k8s',
+      img_1: '/images/heo/k8s.png',
+      color_1: '#ffffff',
       title_2: 'Sketch',
       img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
       color_2: '#ffffff'
@@ -78,9 +78,9 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'k8s',
-      img_1: '/images/heo/k8s.png',
-      color_1: '#ffffff',
+      title_1: 'go',
+      img_1: '/images/heo/gogo.png',
+      color_1: '#57b6e6',
       title_2: 'Git',
       img_2: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
       color_2: '#df5b40'
